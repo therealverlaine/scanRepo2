@@ -12,6 +12,6 @@ repositories {
 
 dependencies {
   testImplementation 'org.junit.vintage:junit-vintage-engine:5.5.2'
-  testImplementation 'org.springframework.boot:spring-boot-starter-test:2.2.10.RELEASE'
+  testImplementation 'org.springframework.boot:spring-boot-starter-test:2.3.0.RELEASE'
   implementation 'org.apiguardian:apiguardian-api:1.1.0'
 }
